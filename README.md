@@ -1,5 +1,5 @@
 - 👋 This is <a href="https://ashishsurya.github.io">```Surya Ashish```</a>
-- 📚 Currently in my final year of B.Tech at <a href="https://iiitkottayam.ac.in/#!/home">Indian Institute of Information Technology Kottayam</a>
+- 📚  B.Tech graduate from <a href="https://iiitkottayam.ac.in/#!/home">Indian Institute of Information Technology Kottayam</a>
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
