@@ -9,3 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashishsurya&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+[![ashishsurya's GitHub | Stats](https://stats.quine.sh/ashishsurya/github?theme=light)](https://quine.sh)
+
+[![ashishsurya's GitHub | Topics](https://stats.quine.sh/ashishsurya/topics-over-time?theme=light)](https://quine.sh)
+
