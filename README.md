@@ -14,3 +14,5 @@
 
 [![ashishsurya's GitHub | Topics](https://stats.quine.sh/ashishsurya/topics-over-time?theme=light)](https://quine.sh)
 
+<a href="https://app.daily.dev/ashishsurya"><img src="https://api.daily.dev/devcards/3eecb9dd1fd64e77a4f1d8e855fb1820.png?r=906" width="400" alt="Surya Ashish's Dev Card"/></a>
+
