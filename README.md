@@ -5,7 +5,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-[![My Skills](https://skillicons.dev/icons?i=js,firebase,mysql,postgres,planetscale,prisma,html,css,react,next,ts,git,express,nodejs,cpp,py&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,firebase,mysql,postgres,planetscale,prisma,html,css,react,next,ts,go,git,express,nodejs,cpp,py&perline=10)](https://skillicons.dev)
 
 
 ![ashishsurya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishsurya&theme=react&hide_border=true)
